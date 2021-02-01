@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello World 👋
 
+A final year computer engineering student.  
 <!--
 **harshdM99/harshdM99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
