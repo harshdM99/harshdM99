@@ -1,6 +1,6 @@
-### Hello World 👋
+### Hello There 👋
 
-A final year computer engineering student.  
+Data Engineer, CS grad '21, interested in full stack development
 <!--
 **harshdM99/harshdM99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
