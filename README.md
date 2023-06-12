@@ -1,6 +1,6 @@
 ### Hello There 👋
 
-Data Engineer, CS grad '21, interested in full stack development
+I am an Ex-data engineer, 2021 computer engineering graduate, and aspiring full stack developer. 💻
 <!--
 **harshdM99/harshdM99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
