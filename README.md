@@ -1,6 +1,9 @@
 ### Hello There 👋
 
-I am an Ex-data engineer, 2021 computer engineering graduate, and aspiring full stack developer. 💻
+I am an aspiring full stack developer 💻, a master's in computer science and engineering student, an Ex-data engineer, and a 2021 computer engineering graduate. 
+- 🔭 I’m currently working on building the socialize project
+- 🌱 I’m currently learning about popular frontend and backend frameworks
+- 📫 How to reach me: Email me at harshdeepmishra82@gmail.com 
 <!--
 **harshdM99/harshdM99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
