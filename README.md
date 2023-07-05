@@ -1,7 +1,7 @@
 ### Hello There 👋
 
 I am an aspiring full stack developer 💻, a master's in computer science and engineering student, and an ex-data engineer with 2 years of work experience. 
-- 🔭 I’m currently working on building the socialize project
+- 🔭 I’m currently working on building the socialize project and improving my problem solving skills on leetcode 
 - 🌱 I’m currently learning about popular frontend and backend frameworks
 - 📫 Reach out to me at harshdeepmishra82@gmail.com 
 <!--
