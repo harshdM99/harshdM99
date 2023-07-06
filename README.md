@@ -1,9 +1,11 @@
-### Hello There 👋
+### Hello there! 👋
 
-I am an aspiring software engineer 💻, a master's in computer science and engineering student, and an ex-data engineer with 2 years of work experience. 
-- 🔭 I’m currently working on building the socialize project and improving my problem solving skills on leetcode 
-- 🌱 I’m currently learning about popular frontend and backend frameworks
-- 📫 Reach out to me at harshdeepmishra82@gmail.com 
+I'm Harshdeep Mishra, an aspiring software engineer 💻 and a master's in computer science and engineering student. With 2 years of work experience as a data engineer, I have a strong foundation in building robust data pipelines and handling complex data workflows.
+
+- 🔭 I’m currently working on building the socialize project which is a pseudonymous social media platform
+- 💡 Additionally, I'm honing my algorithmic thinking and coding abilities on platforms like LeetCode.
+- 🌱 I'm also actively learning and exploring popular frontend and backend frameworks to expand my knowledge and stay up-to-date with the latest industry trends.
+- 📫 Feel free to reach out to me at harshdeepmishra82@gmail.com. I'm always open to new opportunities, collaborations, and interesting conversations!
 <!--
 **harshdM99/harshdM99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
