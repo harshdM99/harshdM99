@@ -5,7 +5,7 @@ I'm Harshdeep Mishra, an aspiring software engineer 💻 and a master's in compu
 - 🔭 I’m currently working on building the socialize project which is a pseudonymous social media platform
 - 💡 Additionally, I'm honing my algorithmic thinking and coding abilities on platforms like LeetCode.
 - 🌱 I'm also actively learning and exploring popular frontend and backend frameworks to expand my knowledge and stay up-to-date with the latest industry trends.
-- 📫 Feel free to reach out to me at harshdeepmishra82@gmail.com. I'm always open to new opportunities, collaborations, and interesting conversations!
+- 📫 Feel free to reach out to me. I'm always open to new opportunities, collaborations, and interesting conversations!
 <!--
 **harshdM99/harshdM99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
