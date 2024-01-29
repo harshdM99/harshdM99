@@ -1,10 +1,10 @@
 ### Hello there! 👋
 
-I'm Harshdeep Mishra, an aspiring software engineer 💻 and a master's in computer science and engineering student. With 2 years of work experience as a data engineer, I have a strong foundation in building robust data pipelines and handling complex data workflows.
+I'm Harshdeep Mishra, an aspiring techie 💻 and a master's in computer science and engineering student. With 2 years of work experience as a data engineer, I have a strong foundation in building robust data pipelines and handling complex data workflows.
 
-- 🔭 I’m currently working on building the socialize project which is a pseudonymous social media platform
+- 🔭 I’m currently studying at the University at Buffalo, The State University of New York.
 - 💡 Additionally, I'm honing my algorithmic thinking and coding abilities on platforms like LeetCode.
-- 🌱 I'm also actively learning and exploring popular frontend and backend frameworks to expand my knowledge and stay up-to-date with the latest industry trends.
+- 🌱 I'm also actively looking for summer 2024 internship opportunities.
 - 📫 Feel free to reach out to me. I'm always open to new opportunities, collaborations, and interesting conversations!
 <!--
 **harshdM99/harshdM99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
