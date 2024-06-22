@@ -1,3 +1,9 @@
+
+
+![github-header-gif](https://github.com/harshdM99/harshdM99/assets/54745170/d424046d-b8f5-4348-8566-9f5526d45ef8)
+
+
+
 ### Hello there! 👋
 
 I'm Harshdeep Mishra, an aspiring techie 💻 and a master's in computer science and engineering student. With 2 years of work experience as a data engineer, I have a strong foundation in building robust data pipelines and handling complex data workflows.
