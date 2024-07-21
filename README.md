@@ -1,21 +1,20 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/33ee3961-42f5-44b1-ab65-798ff76a5ac7" alt="Harshdeep Mihra" /></a>
+  <img src="https://github.com/user-attachments/assets/33ee3961-42f5-44b1-ab65-798ff76a5ac7" alt="Harshdeep Mishra"/></a>
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=4000&pause=500&color=F7F7F7&center=true&width=435&lines=Software+Engineer;Data+Engineer;Avid+learner" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshdM99&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=harshdM99&style=for-the-badge&label=visitors&abbreviated=true" />
 </p>
-
 <!-- Social icons section -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-  <img src="https://skillicons.dev/icons?i=gmail" />
-  <img src="https://github.com/user-attachments/assets/32c7c940-afb2-4035-b1f8-54eb74604300" width="46px"/>
-  <img src="https://github.com/user-attachments/assets/e56b8d6c-fdbb-46bb-b8b5-15ef5ae169ba" width="46px"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="33px"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="33px"/>
+  <img src="https://github.com/user-attachments/assets/32c7c940-afb2-4035-b1f8-54eb74604300" width="33px"/>
+  <img src="https://github.com/user-attachments/assets/e56b8d6c-fdbb-46bb-b8b5-15ef5ae169ba" width="33px"/>
 </div>
 
 <!-- <p align="center">
@@ -132,4 +131,7 @@
   </p>
 </details>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshdM99&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak" /></a>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshdM99&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+</div>
+
