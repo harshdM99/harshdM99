@@ -5,6 +5,8 @@
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=4000&pause=500&color=F7F7F7&center=true&width=435&lines=Software+Engineer;Data+Engineer;Avid+learner" alt="Typing SVG" /></a>
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshdM99&style=for-the-badge" />
 </p>
 
@@ -130,5 +132,4 @@
   </p>
 </details>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
-![](https://komarev.com/ghpvc/?username=harshdM99&style=for-the-badge)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshdM99&theme=github-dark-dimmed&hide_border=true" alt="GitHub Streak" /></a>
