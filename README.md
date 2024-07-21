@@ -10,11 +10,17 @@
   <img src="https://komarev.com/ghpvc/?username=harshdM99&style=for-the-badge&label=visitors&abbreviated=true" />
 </p>
 <!-- Social icons section -->
+<!-- TODO: make appropriate links -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linkedin" width="33px"/>
   <img src="https://skillicons.dev/icons?i=gmail" width="33px"/>
   <img src="https://github.com/user-attachments/assets/32c7c940-afb2-4035-b1f8-54eb74604300" width="33px"/>
   <img src="https://github.com/user-attachments/assets/e56b8d6c-fdbb-46bb-b8b5-15ef5ae169ba" width="33px"/>
+</div>
+
+<!-- Github stats -->
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=true&sideLabels=EBEBEB&ring=EB6E31&fire=EB6E31&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EB6E31" alt="GitHub Streak" /></a>
 </div>
 
 <!-- <p align="center">
@@ -67,7 +73,7 @@
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
   </p>
-  
+  <!-- TODO: complete this -->
   <h3>☁  Cloud providers </h3>
   <!-- Cloud provider 1 -->
   <h4>
@@ -130,9 +136,3 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
-
-<!-- Github stats -->
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=true&sideLabels=EBEBEB&ring=EB6E31&fire=EB6E31&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EB6E31" alt="GitHub Streak" /></a>
-</div>
-
