@@ -80,10 +80,14 @@
     <a href="#"><img alt="Amazon Web Services" src ="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?logo=amazonwebservices&logoColor=white"></a>
   </h4>
   <p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    
+    <a href="#"><img alt="Amazon EC2" src="https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?logo=amazonec2&logoColor=white"></a>
+    <a href="#"><img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-569A31.svg?logo=amazons3&logoColor=white"></a>
+    <a href="#"><img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?logo=awslambda&logoColor=white"></a>
+    <a href="#"><img alt="AWS Glue" src="https://img.shields.io/badge/AWS%20Glue-232F3E.svg?logo=amazonec2&logoColor=white"></a>
+    <a href="#"><img alt="Amazon Redshift" src="https://img.shields.io/badge/Amazon%20Redshift-8C4FFF.svg?logo=amazonredshift&logoColor=white"></a>
+    <a href="#"><img alt="AWS Athena" src="https://img.shields.io/badge/AWS%20Athena-FF9900.svg?logo=amazondocumentdb&logoColor=white"></a>
+    <a href="#"><img alt="Amazon API Gateway" src="https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B.svg?logo=amazonapigateway&logoColor=white"></a>
+    <a href="#"><img alt="Amazon Dynamodb" src="https://img.shields.io/badge/Amazon%20Dynamodb-4053D6.svg?logo=amazondynamodb&logoColor=white"></a>
   </p>
   
   <!-- Cloud provider 2 -->
@@ -91,13 +95,12 @@
     <a href="#"><img alt="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud%20Platform-4285F4.svg?logo=googlecloud&logoColor=white"></a>
   </h4>
   <p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=googlecloudcomposer&logoColor=white"></a>
+    <a href="#"><img alt="Cloud Composer" src="https://img.shields.io/badge/Cloud%20Composer-4285F4.svg?logo=googlecloudcomposer&logoColor=white"></a>
     <a href="#"><img alt="Google Cloud Storage" src="https://img.shields.io/badge/Cloud%20Storage-AECBFA.svg?logo=googlecloudstorage&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=googledataproc&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=googlepubsub&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=googlebigquery&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=googledataproc&logoColor=white"></a>
-    
+    <a href="#"><img alt="Dataproc" src="https://img.shields.io/badge/Dataproc-AECBFA.svg?logo=googledataproc&logoColor=white"></a>
+    <a href="#"><img alt="Google Pub/Sub" src="https://img.shields.io/badge/Google%20Pub/Sub-AECBFA.svg?logo=googlepubsub&logoColor=white"></a>
+    <a href="#"><img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-669DF6.svg?logo=googlebigquery&logoColor=white"></a>
+    <a href="#"><img alt="Google Dataflow" src="https://img.shields.io/badge/Google Dataflow-AECBFA.svg?logo=googledataflow&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Data Platforms</h3>
@@ -108,6 +111,7 @@
       <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <!-- <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a> -->
+      <a href="#"><img alt="Apache Airflow" src ="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?logo=apacheairflow&logoColor=white"></a>
   </p>
 
   <h3>🚀  Deployment </h3>
@@ -118,7 +122,7 @@
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
 
-  <h3>💻 Software and Tools</h3>
+  <h3>💻 My Favorite Software/Tools</h3>
 
   <p>
       <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
