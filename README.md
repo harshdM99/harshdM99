@@ -19,8 +19,11 @@
 </div>
 
 <!-- Github stats -->
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=true&sideLabels=EBEBEB&ring=EB6E31&fire=EB6E31&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EB6E31" alt="GitHub Streak" /></a>
+<!-- <div align="center"> -->
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=true&sideLabels=EBEBEB&ring=EB6E31&fire=EB6E31&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EB6E31" alt="GitHub Streak" width = "400"/></a>
+
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdm99&layout=compact" alt="Top Languages" width = "400"/></a>
 </div>
 
 <!-- <p align="center">
@@ -40,7 +43,7 @@
 <!-- </p>
  -->
 
-<details open> 
+<!-- <details open>  -->
   <summary><h2>🛠️ My Technical Toolkit</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -139,4 +142,4 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
+<!-- </details> -->
