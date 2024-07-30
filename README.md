@@ -4,7 +4,8 @@
   <img src="https://github.com/user-attachments/assets/33ee3961-42f5-44b1-ab65-798ff76a5ac7" alt="Harshdeep Mishra"/></a>
 </p>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=4000&pause=500&color=F7F7F7&center=true&width=435&lines=Software+Engineer;Data+Engineer;Avid+learner" alt="Typing SVG" /></a>
+  <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=4000&pause=500&color=F7F7F7&center=true&width=435&lines=Software+Engineer;Data+Engineer;Avid+learner" alt="Typing SVG" /></a> -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=4000&pause=500&color=A9A9A9&center=true&width=435&lines=Software+Engineer;Data+Engineer;Avid+learner" alt="Typing SVG" /></a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshdM99&style=for-the-badge&label=visitors&abbreviated=true" />
@@ -20,10 +21,10 @@
 
 <!-- Github stats -->
 <!-- <div align="center"> -->
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=true&sideLabels=EBEBEB&ring=EB6E31&fire=EB6E31&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EB6E31" alt="GitHub Streak" width = "400"/></a>
+<div style="display: flex; justify-content: center;">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=true&sideLabels=EBEBEB&ring=EB6E31&fire=EB6E31&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EB6E31" alt="GitHub Streak" width = "50%"/></a>
 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdm99&layout=compact" alt="Top Languages" width = "400"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdm99&layout=compact&theme=transparent" alt="Top Languages" width = "50%"/></a>
 </div>
 
 <!-- <p align="center">
