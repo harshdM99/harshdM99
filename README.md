@@ -1,7 +1,6 @@
 
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/33ee3961-42f5-44b1-ab65-798ff76a5ac7" alt="Harshdeep Mishra"/></a>
+  <img src="https://github.com/user-attachments/assets/854d5d88-8399-4ce7-91c1-b887988f136f" alt="Harshdeep Mishra"/></a>
 </p>
 <p align="center">
   <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=4000&pause=500&color=F7F7F7&center=true&width=435&lines=Software+Engineer;Data+Engineer;Avid+learner" alt="Typing SVG" /></a> -->
