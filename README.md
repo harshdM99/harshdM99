@@ -12,10 +12,10 @@
 <!-- Social icons section -->
 <!-- TODO: make appropriate links -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="33px"/>
-  <img src="https://skillicons.dev/icons?i=gmail" width="33px"/>
-  <img src="https://github.com/user-attachments/assets/32c7c940-afb2-4035-b1f8-54eb74604300" width="33px"/>
-  <img src="https://github.com/user-attachments/assets/e56b8d6c-fdbb-46bb-b8b5-15ef5ae169ba" width="33px"/>
+  <a href="https://www.linkedin.com/in/harshdeep-mishra/"> <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="33px"/> </a>
+  <a href="mailto:harshdeepmishra82@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="33px"/> </a>
+  <a href="https://git.io/typing-svg"> <img src="https://github.com/user-attachments/assets/32c7c940-afb2-4035-b1f8-54eb74604300" alt="Resume" width="33px" style="background-color: black;"/> </a>
+  <a href="https://leetcode.com/u/HarshDM123/"> <img src="https://github.com/user-attachments/assets/e56b8d6c-fdbb-46bb-b8b5-15ef5ae169ba" alt="Leetcode" width="33px" style="background-color: black;"/> </a>
 </div>
 
 <!-- Github stats -->
