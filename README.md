@@ -13,16 +13,16 @@
 <!-- TODO: make appropriate links -->
 <div align="center" style="background-color: black;">
   <a href="https://www.linkedin.com/in/harshdeep-mishra/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="33px"/></a>
-  <a href="mailto:harshdeepmishra82@gmail.com" target="_blank"><img src="https://.dev/icons?i=gmail" alt="Gmail" width="33px"/></a>
+  <a href="mailto:harshdeepmishra82@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="33px"/></a>
   <a href="https://docs.google.com/viewer?url=https://github.com/harshdM99/harshdM99/blob/master/Harshdeep%20Mishra%20Resume%20-%20Data%20Engineer.pdf?raw=true" target="_blank"><img src="https://github.com/user-attachments/assets/64134706-c540-44b7-ab08-8cd04109eb66" alt="Resume" width="33px" /></a>
   <a href="https://leetcode.com/u/HarshDM123/" target="_blank"><img src="https://github.com/user-attachments/assets/e41257a9-1348-47ad-8033-c0a2a8326fcf" alt="Leetcode" width="33px"/></a>
 </div>
 
 <!-- Github stats -->
 <!-- <div align="center"> -->
-<div style="display:flex">
-  <img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=true&sideLabels=b6b7b7&ring=EB6E31&fire=EB6E31&currStreakNum=b6b7b7&sideNums=b6b7b7&currStreakLabel=EB6E31" alt="GitHub Streak" width = "40%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdm99&layout=compact&theme=transparent" alt="Top Languages" width = "40%"/>
+<div style="display:flex; justify-content:center; margin:10px">
+  <img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=false&sideLabels=b6b7b7&ring=EB6E31&fire=EB6E31&currStreakNum=b6b7b7&sideNums=b6b7b7&currStreakLabel=EB6E31" alt="GitHub Streak" height = "192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdm99&layout=compact&theme=transparent" alt="Top Languages" height = "192px"/>
 </div>
 
 <!-- <p align="center">
