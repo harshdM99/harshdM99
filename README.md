@@ -20,10 +20,22 @@
 
 <!-- Github stats -->
 <!-- <div align="center"> -->
-<div style="display:flex; justify-content:space-around; margin:20px 0px 20px 0px">
-  <img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=false&sideLabels=b6b7b7&ring=EB6E31&fire=EB6E31&currStreakNum=b6b7b7&sideNums=b6b7b7&currStreakLabel=EB6E31" alt="GitHub Streak" width = "40%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdm99&layout=compact&theme=transparent" alt="Top Languages" width = "40%"/>
-</div>
+<table>
+  <tr>
+    <td colspan="2"><br><br></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=false&sideLabels=b6b7b7&ring=EB6E31&fire=EB6E31&currStreakNum=b6b7b7&sideNums=b6b7b7&currStreakLabel=EB6E31" alt="GitHub Streak" width="80%"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdm99&layout=compact&theme=transparent" alt="Top Languages" width="80%"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br><br></td>
+  </tr>
+</table>
 
 <!-- <p align="center">
 <!--   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/></a>
