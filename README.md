@@ -11,11 +11,11 @@
 </p>
 <!-- Social icons section -->
 <!-- TODO: make appropriate links -->
-<div align="center">
+<div align="center" style="background-color: black;">
   <a href="https://www.linkedin.com/in/harshdeep-mishra/"> <img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="33px"/> </a>
   <a href="mailto:harshdeepmishra82@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="33px"/> </a>
-  <a href="https://docs.google.com/viewer?url=https://github.com/harshdM99/harshdM99/blob/master/Harshdeep%20Mishra%20Resume%20-%20Data%20Engineer.pdf?raw=true" style="background-color: black;"> <img src="https://github.com/user-attachments/assets/32c7c940-afb2-4035-b1f8-54eb74604300" alt="Resume" width="33px" /> </a>
-  <a href="https://leetcode.com/u/HarshDM123/" style="background-color: black;"> <img src="https://github.com/user-attachments/assets/e56b8d6c-fdbb-46bb-b8b5-15ef5ae169ba" alt="Leetcode" width="33px"/> </a>
+  <a href="https://docs.google.com/viewer?url=https://github.com/harshdM99/harshdM99/blob/master/Harshdeep%20Mishra%20Resume%20-%20Data%20Engineer.pdf?raw=true" > <img src="https://github.com/user-attachments/assets/32c7c940-afb2-4035-b1f8-54eb74604300" alt="Resume" width="33px" /> </a>
+  <a href="https://leetcode.com/u/HarshDM123/" > <img src="https://github.com/user-attachments/assets/e56b8d6c-fdbb-46bb-b8b5-15ef5ae169ba" alt="Leetcode" width="33px"/> </a>
 </div>
 
 <!-- Github stats -->
@@ -43,7 +43,7 @@
 <!-- </p>
  -->
 
-<!-- <details open>  -->
+<details> 
   <summary><h2>🛠️ My Technical Toolkit</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -142,4 +142,4 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-<!-- </details> -->
+</details>
