@@ -21,9 +21,9 @@
 <!-- Github stats -->
 <!-- <div align="center"> -->
 <div style="display: flex; justify-content: center;">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=true&sideLabels=EBEBEB&ring=EB6E31&fire=EB6E31&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EB6E31" alt="GitHub Streak" width = "50%"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=true&sideLabels=EBEBEB&ring=EB6E31&fire=EB6E31&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EB6E31" alt="GitHub Streak" width = "40%"/></a>
 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdm99&layout=compact&theme=transparent" alt="Top Languages" width = "50%"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdm99&layout=compact&theme=transparent" alt="Top Languages" width = "40%"/></a>
 </div>
 
 <!-- <p align="center">
