@@ -20,7 +20,7 @@
 
 <!-- Github stats -->
 <!-- <div align="center"> -->
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td colspan="2"><br><br></td>
   </tr>
