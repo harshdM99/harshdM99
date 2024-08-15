@@ -20,10 +20,9 @@
 
 <!-- Github stats -->
 <!-- <div align="center"> -->
-<div style="display: flex; justify-content: center; width:100%">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=true&sideLabels=aea9af&ring=EB6E31&fire=EB6E31&currStreakNum=aea9af&sideNums=aea9af&currStreakLabel=EB6E31" alt="GitHub Streak" width = "30%"/></a>
-
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdm99&layout=compact&theme=transparent" alt="Top Languages" width = "30%"/></a>
+<div style="display:flex">
+  <img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=true&sideLabels=b6b7b7&ring=EB6E31&fire=EB6E31&currStreakNum=b6b7b7&sideNums=b6b7b7&currStreakLabel=EB6E31" alt="GitHub Streak" width = "40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdm99&layout=compact&theme=transparent" alt="Top Languages" width = "40%"/>
 </div>
 
 <!-- <p align="center">
