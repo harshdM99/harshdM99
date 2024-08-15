@@ -13,17 +13,17 @@
 <!-- TODO: make appropriate links -->
 <div align="center" style="background-color: black;">
   <a href="https://www.linkedin.com/in/harshdeep-mishra/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="33px"/></a>
-  <a href="mailto:harshdeepmishra82@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="33px"/></a>
+  <a href="mailto:harshdeepmishra82@gmail.com" target="_blank"><img src="https://.dev/icons?i=gmail" alt="Gmail" width="33px"/></a>
   <a href="https://docs.google.com/viewer?url=https://github.com/harshdM99/harshdM99/blob/master/Harshdeep%20Mishra%20Resume%20-%20Data%20Engineer.pdf?raw=true" target="_blank"><img src="https://github.com/user-attachments/assets/32c7c940-afb2-4035-b1f8-54eb74604300" alt="Resume" width="33px" /></a>
   <a href="https://leetcode.com/u/HarshDM123/" target="_blank"><img src="https://github.com/user-attachments/assets/e56b8d6c-fdbb-46bb-b8b5-15ef5ae169ba" alt="Leetcode" width="33px"/></a>
 </div>
 
 <!-- Github stats -->
 <!-- <div align="center"> -->
-<div style="display: flex; justify-content: center;">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=true&sideLabels=EBEBEB&ring=EB6E31&fire=EB6E31&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EB6E31" alt="GitHub Streak" width = "40%"/></a>
+<div style="display: flex; justify-content: center; width:100%">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=true&sideLabels=aea9af&ring=EB6E31&fire=EB6E31&currStreakNum=aea9af&sideNums=aea9af&currStreakLabel=EB6E31" alt="GitHub Streak" width = "30%"/></a>
 
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdm99&layout=compact&theme=transparent" alt="Top Languages" width = "40%"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdm99&layout=compact&theme=transparent" alt="Top Languages" width = "30%"/></a>
 </div>
 
 <!-- <p align="center">
@@ -143,3 +143,4 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
+skillicons
