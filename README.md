@@ -20,22 +20,18 @@
 
 <!-- Github stats -->
 <!-- <div align="center"> -->
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td colspan="2"><br><br></td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=false&sideLabels=b6b7b7&ring=EB6E31&fire=EB6E31&currStreakNum=b6b7b7&sideNums=b6b7b7&currStreakLabel=EB6E31" alt="GitHub Streak" width="80%"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdm99&layout=compact&theme=transparent" alt="Top Languages" width="80%"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><br><br></td>
-  </tr>
-</table>
+<p align="center">
+  <br><br> 
+</p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=harshdM99&theme=transparent&hide_border=false&sideLabels=b6b7b7&ring=EB6E31&fire=EB6E31&currStreakNum=b6b7b7&sideNums=b6b7b7&currStreakLabel=EB6E31" alt="GitHub Streak" width="45%" height="200px">
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshdm99&layout=compact&theme=transparent" alt="Top Languages" height="200px" width="45%">
+</div>
+<p align="center">
+  <br><br> 
+</p>
 
 <!-- <p align="center">
 <!--   <a href="https://www.youtube.com/c/DevProTips"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/></a>
@@ -154,4 +150,3 @@
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
-skillicons
